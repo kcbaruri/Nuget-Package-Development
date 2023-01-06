@@ -1,0 +1,9 @@
+F:\Nuget Package\NugetPackageDevelopment\NugetIntroductoryPackage\bin\Debug\netcoreapp3.1\NugetIntroductoryPackage.deps.json
+F:\Nuget Package\NugetPackageDevelopment\NugetIntroductoryPackage\bin\Debug\netcoreapp3.1\NugetIntroductoryPackage.dll
+F:\Nuget Package\NugetPackageDevelopment\NugetIntroductoryPackage\bin\Debug\netcoreapp3.1\NugetIntroductoryPackage.pdb
+F:\Nuget Package\NugetPackageDevelopment\NugetIntroductoryPackage\obj\Debug\netcoreapp3.1\NugetIntroductoryPackage.GeneratedMSBuildEditorConfig.editorconfig
+F:\Nuget Package\NugetPackageDevelopment\NugetIntroductoryPackage\obj\Debug\netcoreapp3.1\NugetIntroductoryPackage.AssemblyInfoInputs.cache
+F:\Nuget Package\NugetPackageDevelopment\NugetIntroductoryPackage\obj\Debug\netcoreapp3.1\NugetIntroductoryPackage.AssemblyInfo.cs
+F:\Nuget Package\NugetPackageDevelopment\NugetIntroductoryPackage\obj\Debug\netcoreapp3.1\NugetIntroductoryPackage.csproj.CoreCompileInputs.cache
+F:\Nuget Package\NugetPackageDevelopment\NugetIntroductoryPackage\obj\Debug\netcoreapp3.1\NugetIntroductoryPackage.dll
+F:\Nuget Package\NugetPackageDevelopment\NugetIntroductoryPackage\obj\Debug\netcoreapp3.1\NugetIntroductoryPackage.pdb

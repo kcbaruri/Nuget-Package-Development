@@ -1,0 +1,10 @@
+F:\Nuget Package\NugetPackageDevelopment\PackageDependentLibrary\bin\Debug\netcoreapp3.1\PackageDependentLibrary.deps.json
+F:\Nuget Package\NugetPackageDevelopment\PackageDependentLibrary\bin\Debug\netcoreapp3.1\PackageDependentLibrary.dll
+F:\Nuget Package\NugetPackageDevelopment\PackageDependentLibrary\bin\Debug\netcoreapp3.1\PackageDependentLibrary.pdb
+F:\Nuget Package\NugetPackageDevelopment\PackageDependentLibrary\obj\Debug\netcoreapp3.1\PackageDependentLibrary.csproj.AssemblyReference.cache
+F:\Nuget Package\NugetPackageDevelopment\PackageDependentLibrary\obj\Debug\netcoreapp3.1\PackageDependentLibrary.GeneratedMSBuildEditorConfig.editorconfig
+F:\Nuget Package\NugetPackageDevelopment\PackageDependentLibrary\obj\Debug\netcoreapp3.1\PackageDependentLibrary.AssemblyInfoInputs.cache
+F:\Nuget Package\NugetPackageDevelopment\PackageDependentLibrary\obj\Debug\netcoreapp3.1\PackageDependentLibrary.AssemblyInfo.cs
+F:\Nuget Package\NugetPackageDevelopment\PackageDependentLibrary\obj\Debug\netcoreapp3.1\PackageDependentLibrary.csproj.CoreCompileInputs.cache
+F:\Nuget Package\NugetPackageDevelopment\PackageDependentLibrary\obj\Debug\netcoreapp3.1\PackageDependentLibrary.dll
+F:\Nuget Package\NugetPackageDevelopment\PackageDependentLibrary\obj\Debug\netcoreapp3.1\PackageDependentLibrary.pdb

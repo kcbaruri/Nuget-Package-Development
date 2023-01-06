@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "NugetIntroductoryPackage/1.0.0": {
+        "runtime": {
+          "NugetIntroductoryPackage.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NugetIntroductoryPackage/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
